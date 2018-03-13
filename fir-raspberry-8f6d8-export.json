@@ -1,0 +1,13 @@
+{
+  "led" : {
+    "led17" : {
+      "on" : false
+    },
+    "led22" : {
+      "on" : false
+    },
+    "led27" : {
+      "on" : false
+    }
+  }
+}
